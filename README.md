@@ -13,7 +13,7 @@ Cloud](images/cloud.png)](https://rstudio.cloud/project/1642300)
 [![DOI](https://zenodo.org/badge/84222786.svg)](https://zenodo.org/badge/latestdoi/84222786)
 <!-- badges: end -->
 
-## Introduction Section
+## Introduction 
 
 This repository hosts the code underlying Geocomputation with R, a book
 by [Robin Lovelace](https://www.robinlovelace.net/), [Jakub
